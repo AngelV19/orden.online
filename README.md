@@ -9,6 +9,7 @@ PHP 8 · MySQL · Bootstrap 5 · XAMPP
 
 - XAMPP con PHP 8.0+ y MySQL 5.7+ / MariaDB 10.3+
 - Navegador moderno
+- composer
 
 ---
 
